@@ -1,0 +1,8 @@
+{
+    "search_dir": {
+        "description": "TXT 文件搜索目录",
+        "type": "string",
+        "hint": "请输入本地 TXT 文件的搜索目录，默认为 D:/txt",
+        "default": "D:/txt"
+    }
+}
